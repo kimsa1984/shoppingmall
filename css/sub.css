@@ -1,7 +1,7 @@
 @charset "utf-8";
 
 
-#sub{width: 1100px; height: 100%; margin: 0 auto; border: 1px solid rgb(228, 223, 223); box-sizing: border-box; position: relative;}
+#product{width: 1100px; height: 100%; margin: 0 auto; border: 1px solid rgb(228, 223, 223); box-sizing: border-box; position: relative; } 
 #product h3{margin: 0; font-size: 20px; height: 50px; width: 100%;}
 #product p{font-size: 18px; color: #666; }
 #product {width:1100px; height:700px; margin:20px auto;  border:1px solid #eee; box-sizing:border-box; position:relative;}
