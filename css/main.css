@@ -58,5 +58,5 @@ button a:hover {color: #000;}
 #best>.box{width: 262px; height: 300px; float:left; margin:120px 5px;}
 #best.box img{width: 100%; height: 100%; }
 #best p{position: absolute; margin: 20px 0px;
-    width: 1050px; height: 533px; text-align: center; font-size: 28px;}
+    width: 1050px; height: 533px; text-align: center; font-size: 28px;font-weight: bold;}
 #best>h5 {border-bottom:1px solid #eee; font-size:20px; height:25px; } 
